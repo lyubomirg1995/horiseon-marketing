@@ -1,6 +1,7 @@
 /* Technical execution of CSS comments based on guide found here: https://www.w3schools.com/css/css_comments.asp */
 /* Understanding CSS combinator logic to incorporate consolidation based on guide found here: https://www.w3schools.com/css/css_combinators.asp */
- 
+/* All divs were converted to semantic elements to improve accessibility */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -139,6 +140,8 @@ article section img {
 }
 */
 
+/* Three h2 values were combined into one */
+
 article section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -172,6 +175,8 @@ aside {
     background-color: #2589bd;
 }
 
+/* Three class selectors were converted into one section value */
+
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -192,6 +197,8 @@ aside section {
     color: #ffffff;
 }
 */
+
+/* Three h3 values were combined into one */
 
 article section h3 {
     margin-bottom: 10px;
@@ -214,6 +221,8 @@ article section h3 {
     text-align: center;
 }
 */
+
+/* Three img values were combined into one */
 
 aside section img {
     display: block;
