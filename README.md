@@ -27,3 +27,4 @@ CSS Combinators and Consolidation Logic: https://www.w3schools.com/css/css_combi
 
 CSS Commenting: https://www.w3schools.com/css/css_comments.asp
 
+Proper method of applying semantic HTML elements: Joshua Bohde (instructor), 3/19/23, Slack
