@@ -5,9 +5,9 @@
 The objective was to refactor the starting code of Horiseon's digital marketing website to improve its functionality, accessibility, and organization, such that the disabled community can consume digital content with ease.
 ## Usage
 
-To understand how the starting code was refactored to improve functionality, accessibility, and organization, view the feature branch and its various commits to see the gradual changes to the code. 
+To understand how the starting code was refactored to improve functionality, accessibility, and organization, please view the feature branch and its various commits to see the gradual changes to the code. 
 
-![alt text](./assets/screenshot.png)
+![alt text](./assets/images/screenshot.png)
     
 
 The web-page can be accessed here: 
