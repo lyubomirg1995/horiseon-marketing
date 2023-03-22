@@ -12,6 +12,8 @@ To understand how the starting code was refactored to improve functionality, acc
 
 The web-page can be accessed here: 
 
+https://lyubomirg1995.github.io/horiseon-marketing/
+
 
 ## Credits
 
