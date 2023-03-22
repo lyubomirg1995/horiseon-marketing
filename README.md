@@ -10,7 +10,7 @@ To understand how the starting code was refactored to improve functionality, acc
 ![alt text](./assets/images/screenshot.png)
     
 
-The web-page can be accessed here: https://lyubomirg1995.github.io/horiseon-marketing/
+The web page can be accessed here: https://lyubomirg1995.github.io/horiseon-marketing/
 
 
 ## Credits
