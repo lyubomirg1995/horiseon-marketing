@@ -15,7 +15,7 @@ The web page can be accessed here: https://lyubomirg1995.github.io/horiseon-mark
 
 ## Credits
 
-Knowledge and its application derived from the following websites:
+Knowledge and its application derived from the following sources:
 
 HTML Accesibility: https://www.w3schools.com/html/html_accessibility.asp
 
